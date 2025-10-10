@@ -1,5 +1,5 @@
 "use client"
-import { AuroraBackground } from "@/components/ui/aurora-background";
+
 import { HeroHighlight, Highlight } from "@/components/ui/hero-highlight";
 import { TextHoverEffect } from "@/components/ui/text-hover-effect";
 import { FloatingDock} from "@/components/ui/floating-dock";
@@ -20,7 +20,7 @@ const items = [
     { title: "Join Us", icon: <User size={22} />, href: "/auth" },
     { title: "Launch", icon: <Rocket size={22} />, href: "/main" },
     { title: "Contact Us", icon: <MessageCircle size={22} />, href: "/contact-us" },
-    { title: "", icon: <Settings size={22} />, href: "/settings" },
+  
   ];
 
 
