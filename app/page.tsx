@@ -5,7 +5,6 @@ import { TextHoverEffect } from "@/components/ui/text-hover-effect";
 import { FloatingDock} from "@/components/ui/floating-dock";
 import { Home, MessageCircle, Settings, User, FileText, Rocket} from "lucide-react"; 
 import {motion} from "framer-motion"
-import { HoverBorderGradient } from "@/components/ui/hover-border-gradient";
 import { HighlightButton } from "@/components/ui/animated-button";
 
 
